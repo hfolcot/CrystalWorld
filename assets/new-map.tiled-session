@@ -1,0 +1,146 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "crystal_world_map_level_1.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "crystal_world_map.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 280,
+                "y": 240
+            }
+        },
+        "crystal_world_map.tmx#bg_spikes_dark": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "crystal_world_map.tmx#bg_spikes_tileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "crystal_world_map.tmx#diamond": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "crystal_world_map_level_1.json": {
+            "expandedObjectLayers": [
+                5,
+                6
+            ],
+            "scale": 0.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 938,
+                "y": -82
+            }
+        },
+        "crystal_world_map_level_1.json#bg_spikes_dark": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "crystal_world_map_level_1.json#bg_spikes_tileset": {
+            "scaleInDock": 1
+        },
+        "crystal_world_map_level_1.json#diamond": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "crystal_world_map_level_1.json#exit": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "crystal_world_map_level_1.json#main_lev_build_1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33
+        },
+        "crystal_world_map_level_2.json": {
+            "expandedObjectLayers": [
+                5,
+                4
+            ],
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1297,
+                "y": 256
+            }
+        },
+        "crystal_world_map_level_2.json#EXIT": {
+            "scaleInDock": 1
+        },
+        "crystal_world_map_level_2.json#bg_spikes_dark": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "crystal_world_map_level_2.json#bg_spikes_tileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "crystal_world_map_level_2.json#diamond": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "crystal_world_map_level_2.json#exit": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "crystal_world_map_level_2.json#main_lev_build_1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33
+        },
+        "crystal_world_map_level_2.json#main_lev_build_2": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33
+        },
+        "crystal_world_map_level_2.json#mid_tone_pointed": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "crystal_world_map_level_3.json#bg_spikes_dark": {
+            "dynamicWrapping": false
+        },
+        "main_lev_build_1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.75
+        },
+        "main_lev_build_2.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/dev/phaser/platformer/assets",
+    "last.externalTilesetPath": "C:/dev/phaser/platformer/assets",
+    "last.imagePath": "C:/dev/phaser/platformer/assets/collectibles",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "openFiles": [
+        "crystal_world_map_level_1.json",
+        "crystal_world_map_level_2.json"
+    ],
+    "project": "new-map.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "crystal_world_map_level_1.json",
+        "crystal_world_map_level_2.json",
+        "main_lev_build_1.tsx",
+        "crystal_world_map.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 1
+}
